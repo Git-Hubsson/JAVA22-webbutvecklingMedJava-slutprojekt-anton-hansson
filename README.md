@@ -1,5 +1,3 @@
-# JAVA22-webbutvecklingMedJava-slutprojekt-anton-hansson
-
 # Weather Info Application - README
 ## Overview
 This Java-based web application provides real-time weather information, including temperature, cloud status, local time, and date based on the user's chosen city and country. The application consists of Java Servlets, Java Model classes, and JSP pages, each handling different aspects of data processing and user interface.

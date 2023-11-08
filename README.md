@@ -1,6 +1,6 @@
 # Weather Info Application - README
 ## Overview
-This Java-based web application provides real-time weather information, including temperature, cloud status, local time, and date based on the user's chosen city and country. The application consists of Java Servlets, Java Model classes, and JSP pages, each handling different aspects of data processing and user interface.
+This Java-based web application provides real-time weather information, including temperature, cloud status, local time, and date based on the user's chosen city and country. The application consists of Java Servlets, Java Model classes, and JSP pages, each handling different aspects of data processing and user interface. The application is developed using Java EE technologies, including Jakarta Servlets and JavaServer Pages (JSP), providing a robust framework for managing web-based interactions and dynamic content rendering.
 
 ## Components
 ### Java Servlets
